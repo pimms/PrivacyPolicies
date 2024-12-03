@@ -11,5 +11,5 @@ Ved første oppstart lager Kryssordprinsen en unik ID. Denne IDen er et tilfeldi
 Jeg er like opptatt av personvern som deg, og har like lite lyst til å vite noe om deg som du har til at jeg vet det.
 
 
-Joakim Bull-Stien
+_- Joakim Bull-Stien_
 
